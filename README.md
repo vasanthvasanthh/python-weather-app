@@ -1,3 +1,3 @@
-# python-weather-app
-#sample output
-![sample](https://github.com/vasanthvasanthh/python-weather-app/assets/124488699/a7039ada-11ca-4bbb-9ef6-6dc1dee2f0a6)
+# SAMPLE OUTPUT
+
+![sample_image](https://github.com/vasanthvasanthh/python-weather-app/assets/124488699/57475700-5647-489a-ae67-0d859799016e)
